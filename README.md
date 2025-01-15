@@ -1,3 +1,5 @@
+https://github.com/kickthesky/futti/blob/master/futsal-background-image.jpeg?raw=true
+
 # fütti
 A tabletop sports game about a fictional sport similar to futsal.
 
